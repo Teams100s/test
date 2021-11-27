@@ -13,5 +13,7 @@ public class Test {
         System.out.println("测试协同开发者是否可以推入代码");
 
         System.out.println("你们好，大家好----测试分支");
+
+        System.out.println("测试合并分支-master");
     }
 }
