@@ -7,4 +7,7 @@ package com.igeek.test.entity;
  * @Date 2021/11/27 10:43
  */
 public class Test {
+    public static void main(String[] args) {
+        System.out.println("测试蔡刚是否拉取到代码");
+    }
 }
